@@ -2,3 +2,5 @@
 Hello
 New line
 Hello from main
+Hello from conflict-demo
+
